@@ -1,0 +1,8 @@
+node_modules
+dist/
+test
+build/
+/index.html
+.history
+tsconfig.json
+REMARK/

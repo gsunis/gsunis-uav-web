@@ -1,0 +1,33 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "pflannery.vscode-versionlens",
+    "shardulm94.trailing-spaces",
+    "gruntfuggly.todo-tree",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "alefragnani.project-manager",
+    "mrmlnc.vscode-less",
+    "obkoro1.korofileheader",
+    "zignd.html-css-class-completion",
+    "oderwat.indent-rainbow",
+    "wix.vscode-import-cost",
+    "kisstkondoros.vscode-gutter-preview",
+    "ecmel.vscode-html-css",
+    "vincaslt.highlight-matching-tag",
+    "spywhere.guides",
+    "eamodio.gitlens",
+    "huizhou.githd",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "alefragnani.bookmarks",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-close-tag",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "sdras.vue-vscode-snippets",
+    "hollowtree.vue-snippets"
+  ]
+}

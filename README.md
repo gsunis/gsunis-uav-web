@@ -1,2 +1,1 @@
-# gsunis-uav-web
-Drone Flight Control Platform
+# 甘肃紫光无人机飞控平台
