@@ -46,7 +46,7 @@
 
 ### 1.6 运行命令
 
-- git clone https://gitee.com/uav-gsunis/gsunis-uav-web.git
+- git clone https://github.com/gsunis/gsunis-uav-web.git
 - cd gsunis-uav-web
 - pnpm install
 - pnpm dev
@@ -70,7 +70,7 @@
 
 * **航线任务列表**：展示当前机构航线列表，支持一键快速执行。
 
-![输入图片说明](Image/%E9%A6%96%E9%A1%B54.png)
+![输入图片说明](Image/首页4.png)
 
 ### 2.2 飞控调度模块
 
